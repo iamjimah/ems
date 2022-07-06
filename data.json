@@ -1,0 +1,68 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Drake",
+            "surname": "Knox",
+            "phone": "1-424-864-3458",
+            "email": "dolor@aol.org",
+            "address": "920-4643 Mollis. Av.",
+            "birthdate": "Jan 12, 2014"
+        },
+        {
+            "id": 2,
+            "name": "Chiquita",
+            "surname": "Sawyer",
+            "phone": "1-111-862-8761",
+            "email": "nonummy@icloud.ca",
+            "address": "Ap #308-8010 Luctus Rd.",
+            "birthdate": "Apr 29, 1969"
+        },
+        {
+            "id": 3,
+            "name": "Brian",
+            "surname": "Perry",
+            "phone": "1-756-725-6931",
+            "email": "at.sem@google.ca",
+            "address": "Ap #917-3855 Neque. Av.",
+            "birthdate": "Mar 23, 2014"
+        },
+        {
+            "id": 4,
+            "name": "Jacqueline",
+            "surname": "Iliana",
+            "phone": "1-863-636-3454",
+            "email": "id@outlook.edu",
+            "address": "P.O. Box 285, 4093 At, Road",
+            "birthdate": "Oct 30, 1977"
+        },
+        {
+            "id": 5,
+            "name": "Talon",
+            "surname": "Daquan",
+            "phone": "1-546-461-1303",
+            "email": "quis.diam@icloud.org",
+            "address": "8186 Penatibus St.",
+            "birthdate": "Jul 17, 1969"
+        },
+        {
+            "id": 6,
+            "name": "Freya",
+            "surname": "Lana",
+            "phone": "1-506-322-0352",
+            "email": "lorem.vitae@google.ca",
+            "address": "P.O. Box 562, 8853 Ac St.",
+            "birthdate": "Jul 19, 1978"
+        },
+        {
+            "id": 7,
+            "name": "Ashely",
+            "surname": "Destiny",
+            "phone": "1-654-248-7832",
+            "email": "a.nunc.in@aol.edu",
+            "address": "P.O. Box 524, 1818 Cum St.",
+            "birthdate": "Oct 14, 1983"
+        }
+       
+    ]
+}
